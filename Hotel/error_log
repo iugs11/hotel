@@ -1,0 +1,2 @@
+[22-Apr-2024 14:59:53 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: جدول الحدث غير موجود., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[25-Apr-2024 15:31:13 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: جدول الحدث غير موجود., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
